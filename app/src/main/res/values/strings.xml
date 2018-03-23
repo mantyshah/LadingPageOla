@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LadingPage</string>
+    <string name="bookTaxi">Book a Taxi</string>
+    <string name="whereToBook">From Your Home to Your Destination</string>
+    <string name="installApplication">Just Install the Application</string>
+    <string name="taxiIcon">Taxi Icon</string>
+    <string name="playStoreDiscription">Google Play Store Image Button.</string>
+    <string name="appleStoreDiscription">Apple Store Image Button.</string>
+</resources>
